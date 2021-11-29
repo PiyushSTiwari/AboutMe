@@ -1,0 +1,51 @@
+.name-div{
+    background-color: rgb(131, 84, 179);
+    border-radius: 1cm;
+    /* box-shadow: 10cm; */
+}
+
+#name{
+    /* margin-left: 38%; */
+    text-align: center;
+}
+
+#photo{
+    margin-left: 46%;
+    border-radius: 50%;
+}
+
+#intrest-id{
+    background-color: rgb(131, 84, 179);
+    border-radius: 1cm;
+}
+
+.intrest{
+    text-align: center;
+}
+
+.intrest-list{
+    /* margin-left: 38%; */
+    text-align: center;
+}
+
+.box{
+    background-color: rgb(131, 84, 179);
+    border-radius: 1cm;
+}
+
+.box-title, .box-content{
+    text-align: center;
+}
+
+.videoClass{
+    margin-top: -5mm;
+}
+
+.video{
+    margin-top: -1cm;
+    margin-left: 38%;
+    margin-bottom: 1mm;
+    width: 320;
+    height: 240;
+}
+
